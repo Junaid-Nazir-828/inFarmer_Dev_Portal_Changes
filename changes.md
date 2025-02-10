@@ -15,6 +15,9 @@
     6.  4 tabs on top are not working.
     7.  Account Settings not working.
     8.  By User and By District Option Missing.
+    9.  Remove high to low, use 4 values as in farmer app.
+    10. Fix by date values.
+    11. Remove ET actual from drop down.
 
 ## Analysis
 
