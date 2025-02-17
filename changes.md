@@ -1,5 +1,7 @@
 # Dev Portal
 
+[See this](#monitoring_image)
+
 ## Login
 
     1.  No notification upon wrong password.
@@ -40,5 +42,5 @@
     5.  Back button required at a lot of pages.
     6.  Pages missing from figma.
 
-![monitoring_image](./image.png)
-![tab_image](./tabs.png)
+![monitoring_image](./images/image.png)
+![tab_image](./images/tabs.png)
