@@ -1,19 +1,17 @@
 # Dev Portal
 
-[See this](#monitoring_image)
-
 ## Login
 
     1.  No notification upon wrong password.
 
 ## Monitoring
 
-    2.  Fix view farm report , view farm weather , view farm insurance [See this](#monitoring_image)
-    3.  Fix NDVI , Soil Moisture , Expected Yield [See this](#monitoring_image)
-    4.  Fix Top Tabs [See this](#tabs_image)
+    2.  Fix view farm report , view farm weather , view farm insurance *see monitoring image below*
+    3.  Fix NDVI , Soil Moisture , Expected Yield *see monitoring image below*
+    4.  Fix Top Tabs *see tab image below*
     5.  Add User and By District Options.
     9.  Remove high to low, use 4 values as in infarmer app.
-    10. Fix by date values [See this](#monitoring_image)
+    10. Fix by date values *see monitoring image below*
 
 ## Analysis
 
@@ -43,4 +41,6 @@
     6.  Pages missing from figma.
 
 ![monitoring_image](./images/image.png)
+*Monitoring Image*
 ![tab_image](./images/tabs.png)
+*Top Tabs Image*
